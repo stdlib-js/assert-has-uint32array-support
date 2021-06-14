@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/assert-has-uint32array-support",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Detect native Uint32Array support.",
   "license": "Apache-2.0",
   "author": {
