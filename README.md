@@ -44,7 +44,7 @@ limitations under the License.
 To use in Observable,
 
 ```javascript
-hasUint32ArraySupport = require( 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-has-uint32array-support@umd/browser.js' )
+hasUint32ArraySupport = require( 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-has-uint32array-support@v0.1.0-umd/browser.js' )
 ```
 
 To vendor stdlib functionality and avoid installing dependency trees for Node.js, you can use the UMD server build:
@@ -56,7 +56,7 @@ var hasUint32ArraySupport = require( 'path/to/vendor/umd/assert-has-uint32array-
 To include the bundle in a webpage,
 
 ```html
-<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/assert-has-uint32array-support@umd/browser.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/assert-has-uint32array-support@v0.1.0-umd/browser.js"></script>
 ```
 
 If no recognized module system is present, access bundle contents via the global scope:
@@ -92,7 +92,7 @@ var bool = hasUint32ArraySupport();
 <!DOCTYPE html>
 <html lang="en">
 <body>
-<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/assert-has-uint32array-support@umd/browser.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/assert-has-uint32array-support@v0.1.0-umd/browser.js"></script>
 <script type="text/javascript">
 (function () {
 
