@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/assert-has-uint32array-support",
-  "version": "0.0.8",
+  "version": "0.1.0",
   "description": "Detect native Uint32Array support.",
   "license": "Apache-2.0",
   "author": {
@@ -40,16 +40,16 @@
     "url": "https://github.com/stdlib-js/stdlib/issues"
   },
   "dependencies": {
-    "@stdlib/assert-is-uint32array": "^0.0.8",
-    "@stdlib/cli-ctor": "^0.0.3",
-    "@stdlib/constants-uint32-max": "^0.0.7",
-    "@stdlib/fs-read-file": "^0.0.8"
+    "@stdlib/assert-is-uint32array": "^0.1.0",
+    "@stdlib/cli-ctor": "^0.1.0",
+    "@stdlib/constants-uint32-max": "^0.1.0",
+    "@stdlib/fs-read-file": "^0.1.0"
   },
   "devDependencies": {
     "@stdlib/array-uint32": "^0.0.6",
     "@stdlib/assert-is-boolean": "^0.0.8",
     "@stdlib/assert-is-browser": "^0.0.8",
-    "@stdlib/assert-is-windows": "^0.0.7",
+    "@stdlib/assert-is-windows": "^0.1.0",
     "@stdlib/bench": "^0.0.12",
     "@stdlib/process-exec-path": "^0.0.7",
     "proxyquire": "^2.0.0",
