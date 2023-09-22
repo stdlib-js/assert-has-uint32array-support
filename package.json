@@ -43,7 +43,8 @@
     "@stdlib/assert-is-uint32array": "^0.1.0",
     "@stdlib/cli-ctor": "^0.1.0",
     "@stdlib/constants-uint32-max": "^0.1.0",
-    "@stdlib/fs-read-file": "^0.1.0"
+    "@stdlib/fs-read-file": "^0.1.0",
+    "@stdlib/error-tools-fmtprodmsg": "^0.1.0"
   },
   "devDependencies": {
     "@stdlib/array-uint32": "^0.0.6",
