@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import hasUint32ArraySupport from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-has-uint32array-support@deno/mod.js';
+import hasUint32ArraySupport from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-has-uint32array-support@v0.1.0-deno/mod.js';
 ```
 
 #### hasUint32ArraySupport()
@@ -65,7 +65,7 @@ var bool = hasUint32ArraySupport();
 <!-- eslint no-undef: "error" -->
 
 ```javascript
-import hasUint32ArraySupport from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-has-uint32array-support@deno/mod.js';
+import hasUint32ArraySupport from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-has-uint32array-support@v0.1.0-deno/mod.js';
 
 var bool = hasUint32ArraySupport();
 if ( bool ) {
