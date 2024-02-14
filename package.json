@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/assert-has-uint32array-support",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "description": "Detect native Uint32Array support.",
   "license": "Apache-2.0",
   "author": {
@@ -40,10 +40,10 @@
     "url": "https://github.com/stdlib-js/stdlib/issues"
   },
   "dependencies": {
-    "@stdlib/assert-is-uint32array": "^0.1.1",
+    "@stdlib/assert-is-uint32array": "^0.2.0",
     "@stdlib/cli-ctor": "^0.1.1",
-    "@stdlib/constants-uint32-max": "^0.1.1",
-    "@stdlib/fs-read-file": "^0.1.1"
+    "@stdlib/constants-uint32-max": "^0.2.0",
+    "@stdlib/fs-read-file": "^0.2.0"
   },
   "devDependencies": {
     "@stdlib/array-uint32": "^0.1.1",
