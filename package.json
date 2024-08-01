@@ -40,22 +40,22 @@
     "url": "https://github.com/stdlib-js/stdlib/issues"
   },
   "dependencies": {
-    "@stdlib/assert-is-uint32array": "^0.2.1",
-    "@stdlib/cli-ctor": "^0.2.1",
+    "@stdlib/assert-is-uint32array": "^0.2.2",
+    "@stdlib/cli-ctor": "^0.2.2",
     "@stdlib/constants-uint32-max": "^0.2.2",
-    "@stdlib/fs-read-file": "^0.2.1"
+    "@stdlib/fs-read-file": "^0.2.2"
   },
   "devDependencies": {
-    "@stdlib/array-uint32": "^0.2.1",
-    "@stdlib/assert-is-boolean": "^0.2.1",
-    "@stdlib/assert-is-browser": "^0.2.1",
-    "@stdlib/assert-is-windows": "^0.2.1",
-    "@stdlib/process-exec-path": "^0.2.1",
+    "@stdlib/array-uint32": "^0.2.2",
+    "@stdlib/assert-is-boolean": "^0.2.2",
+    "@stdlib/assert-is-browser": "^0.2.2",
+    "@stdlib/assert-is-windows": "^0.2.2",
+    "@stdlib/process-exec-path": "^0.2.2",
     "proxyquire": "^2.0.0",
     "tape": "git+https://github.com/kgryte/tape.git#fix/globby",
     "istanbul": "^0.4.1",
     "tap-min": "git+https://github.com/Planeshifter/tap-min.git",
-    "@stdlib/bench-harness": "^0.2.1"
+    "@stdlib/bench-harness": "^0.2.2"
   },
   "engines": {
     "node": ">=0.10.0",
