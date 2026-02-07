@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/assert-has-uint32array-support",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "description": "Detect native Uint32Array support.",
   "license": "Apache-2.0",
   "author": {
@@ -41,15 +41,15 @@
   },
   "dependencies": {
     "@stdlib/assert-is-uint32array": "^0.2.2",
-    "@stdlib/cli-ctor": "^0.2.2",
-    "@stdlib/constants-uint32-max": "^0.2.2",
-    "@stdlib/fs-read-file": "^0.2.2"
+    "@stdlib/cli-ctor": "^0.2.3",
+    "@stdlib/constants-uint32-max": "^0.2.3",
+    "@stdlib/fs-read-file": "^0.2.3"
   },
   "devDependencies": {
     "@stdlib/array-uint32": "^0.2.2",
     "@stdlib/assert-is-boolean": "^0.2.2",
     "@stdlib/assert-is-browser": "^0.2.2",
-    "@stdlib/assert-is-windows": "^0.2.2",
+    "@stdlib/assert-is-windows": "^0.2.3",
     "@stdlib/process-exec-path": "^0.2.2",
     "proxyquire": "^2.0.0",
     "tape": "git+https://github.com/kgryte/tape.git#fix/globby",
